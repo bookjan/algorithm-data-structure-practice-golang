@@ -1,2 +1,2 @@
-# algorithm-practice-golang
-It is my algorithm practice with golang
+# algorithm-data-structure-practice-golang
+It is my algorithm and data structure practices with golang
